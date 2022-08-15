@@ -13,3 +13,34 @@
  *= require_tree .
  *= require_self
  */
+.btn-blue {
+  background-color: rgb(49, 85, 141);
+  color: white
+}
+
+h1 {
+  font-size: 72;
+  padding: 15px
+}
+
+h2 {
+  font-size: larger;
+  padding-left: 15px
+}
+
+form {
+  padding-left: 15px
+}
+
+.answer {
+  background-color:blanchedalmond;
+  width: 500px;
+  margin: 15px;
+  font-size: large;
+  font-weight: bold;
+}
+
+.signature {
+  font-size: large;
+  margin: 15px;
+}
